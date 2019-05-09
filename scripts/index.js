@@ -82,4 +82,17 @@
 // })
 // console.log(hotPieActor); // Ben Hawkey
 
+//Task 7 - Who was not in the TV show
+// bookOnlyCharacters = [];
+// characters.forEach(function(character){
 
+//     if (character.tvSeries[0] === ''){
+//         console.log("found a book only character");
+//         bookOnlyCharacters.push(character);
+//     }
+    
+// })
+// console.log(bookOnlyCharacters); //1927
+
+
+//Task 8 -
