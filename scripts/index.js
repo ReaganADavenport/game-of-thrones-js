@@ -41,3 +41,42 @@
 // })
 // console.log(deadCharacters); 
 //553
+
+
+//Task 4 - Who has the most titles - not done, go back and fix
+// mostTitles = [];
+// characters.forEach(function(character){
+
+//     if (character.died !== ""){
+//         deadCharacters.push(character)
+//     }
+    
+// })
+// console.log(deadCharacters); 
+
+//Task 5 - How many Valyrians are there
+// varlyrianCharacters = [];
+// characters.forEach(function(character){
+   
+//     // console.log(character.name[0])
+//     if (character.culture === "Valyrian"){
+//         console.log("found a Valyrian");
+//         varlyrianCharacters.push(character)
+//     }
+    
+// })
+// console.log(varlyrianCharacters); //57
+
+//Task 6 - Who plays Hot Pie
+// hotPieActor = [];
+// characters.forEach(function(character){
+   
+//     // console.log(character.name[0])
+//     if (character.name === "Hot Pie"){
+//         console.log("Found Hot Pie");
+//         hotPieActor.push(character.playedBy)
+//     }
+// })
+// console.log(hotPieActor); // Ben Hawkey
+
+
