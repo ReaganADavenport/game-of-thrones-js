@@ -45,14 +45,17 @@
 
 //Task 4 - Who has the most titles - not done, go back and fix
 // mostTitles = [];
+// titlesCounter = 0;
 // characters.forEach(function(character){
 
-//     if (character.died !== ""){
-//         deadCharacters.push(character)
+//     if (character.titles.length > titlesCounter){
+//         titlesCounter = character.titles.length
+//         mostTitles = character.name;
 //     }
     
 // })
-// console.log(deadCharacters); 
+// console.log(mostTitles);
+// console.log(titlesCounter);
 
 //Task 5 - How many Valyrians are there
 // varlyrianCharacters = [];
